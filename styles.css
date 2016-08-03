@@ -132,29 +132,26 @@ ul li {
 }
 
 #search-form {
-	background-color: #fff;
   height: 38px;
-  border: 1px solid #d9d9d9;
 	max-width: 580px;
 	margin: 20px auto;
 	position: relative;
 }
 
+
 #search-form input {
-	/*border: 1px solid #d9d9d9;*/
-	border: none;
+	border: 1px solid #d9d9d9;
 	height: 36px;
 	width: 100%;
-	outline: none;
 	padding-left: 10px;
-  padding-right: 50px;
+  padding-right: 60px;
 }
 
 .icons {
 	position: absolute;
   display: inline-block;
 	top: 4px;
-	right: 0;
+	right: 10px;
 }
 
 .icon-keyboard {
